@@ -14,6 +14,8 @@
 *.tar.gz
 *.zip
 
+# Ignore results
+*.csv
 
 # Per repo profile
 .profile.ps1
