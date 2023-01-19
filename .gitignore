@@ -1,0 +1,35 @@
+# Visual Studio IDE directory
+.vs/
+
+# VSCode directories that are not at the repository root
+/**/.vscode/
+
+# Ignore executables
+*.exe
+*.msi
+*.appx
+*.msix
+
+# Ignore packages
+*.tar.gz
+*.zip
+
+
+# Per repo profile
+.profile.ps1
+
+
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Crash log files
+crash.log
+crash.*.log
+
+# Ignore CLI configuration files
+.terraformrc
+terraform.rc
