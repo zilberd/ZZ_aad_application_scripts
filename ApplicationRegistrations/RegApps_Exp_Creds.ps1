@@ -1,4 +1,6 @@
 #################################################################################
+# https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/scripts/powershell-export-apps-with-expriring-secrets
+#
 #DISCLAIMER: This is not an official PowerShell Script. We designed it specifically for the situation you have encountered right now.
 #Please do not modify or change any preset parameters. 
 #Please note that we will not be able to support the script if it is changed or altered in any way or used in a different situation for other means.
