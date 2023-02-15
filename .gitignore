@@ -16,6 +16,7 @@
 
 # Ignore results
 *.csv
+*.txt
 
 # Per repo profile
 .profile.ps1
